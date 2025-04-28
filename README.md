@@ -1,6 +1,6 @@
-# Resource Scheduler Suite
+# EventHub
 
-**Resource Scheduler Suite** is a full-stack web application designed to streamline the booking and management of shared resources (like rooms, labs, or equipment) within an organization or campus.
+**EventHub** is a full-stack web application designed to streamline the booking and management of shared resources (like rooms, labs, or equipment) within an organization or campus.
 
 Built with **React.js**, **TypeScript**, and **Tailwind CSS**, the app delivers a modern, responsive, and intuitive interface. It leverages **Supabase** for backend services such as authentication, database management (**PostgreSQL**), and file storage, ensuring scalability and real-time data handling.
 
